@@ -11,12 +11,12 @@ grunt安装，-g全局安装
 		"version": "0.1.0",
 		"devDependencies": {
 			"grunt": "~0.4.1",
-			"grunt-contrib-jshint" : "",
-			"grunt-contrib-uglify" : "",
-			"grunt-contrib-concat" : "",
-			"grunt-contrib-clean"  : "",
-			"grunt-contrib-copy"   : "",
-			"grunt-contrib-watch"  : "",
+			"grunt-contrib-jshint" : "",		//js语法检查
+			"grunt-contrib-uglify" : "",		//js代码压缩
+			"grunt-contrib-concat" : "",		//文件
+			"grunt-contrib-clean"  : "",		//删除文件
+			"grunt-contrib-copy"   : "",		//复制文件
+			"grunt-contrib-watch"  : "",		
 			"grunt-contrib-qunit " : "",
 			"grunt-contrib-less "  : ""
 		}
