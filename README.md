@@ -25,11 +25,11 @@ grunt安装，-g全局安装
 安装所需的组件
 
 ```shell
-	npm install
+npm install
 ```
 
 安装jsdoc(需要安装jdk和git)
 
 ```shell
-	npm install -g git://github.com/jsdoc3/jsdoc.git
+npm install -g git://github.com/jsdoc3/jsdoc.git
 ```
