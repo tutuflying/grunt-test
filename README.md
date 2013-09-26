@@ -29,3 +29,13 @@ grunt安装，-g全局安装
 npm install
 ```
 
+监视文件
+```shell
+grunt test
+```
+
+合并压缩文件，编译less文件
+```shell
+grunt default
+```
+
