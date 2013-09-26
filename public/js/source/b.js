@@ -1,0 +1,3 @@
+function fileB (argument) {
+	// body...
+}

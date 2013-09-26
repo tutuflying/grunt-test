@@ -10,6 +10,7 @@
 		"grunt-contrib-copy"   : "",
 		"grunt-contrib-watch"  : "",
 		"grunt-contrib-qunit " : "",
-		"grunt-contrib-less "  : ""
+		"grunt-contrib-less "  : "",
+		"grunt-contrib-yuidoc" : ""
 	}
 }

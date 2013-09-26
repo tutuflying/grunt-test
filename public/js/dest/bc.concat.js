@@ -1,0 +1,6 @@
+function fileB (argument) {
+	// body...
+}
+function fileC (argument) {
+	// body...
+}

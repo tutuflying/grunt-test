@@ -16,9 +16,10 @@ grunt安装，-g全局安装
 			"grunt-contrib-concat" : "",		//文件
 			"grunt-contrib-clean"  : "",		//删除文件
 			"grunt-contrib-copy"   : "",		//复制文件
-			"grunt-contrib-watch"  : "",		
-			"grunt-contrib-qunit " : "",
-			"grunt-contrib-less "  : ""
+			"grunt-contrib-watch"  : "",		//监视文件是否发生变化
+			"grunt-contrib-qunit " : "",		//单元测试
+			"grunt-contrib-less "  : "",		//less
+			"grunt-contrib-yuidoc" : ""			//生成文档
 		}
 	}
 
@@ -28,8 +29,3 @@ grunt安装，-g全局安装
 npm install
 ```
 
-安装jsdoc(需要安装jdk和git)
-
-```shell
-npm install -g git://github.com/jsdoc3/jsdoc.git
-```
